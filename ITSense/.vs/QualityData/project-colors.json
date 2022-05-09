@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a48f3e86-f9af-456a-8e39-a500f56d58be": {
+      "ProjectGuid": "a48f3e86-f9af-456a-8e39-a500f56d58be",
+      "DisplayName": "Business",
+      "ColorIndex": 0
+    },
+    "5d2c0e5d-36a2-4a2b-bef1-4fc1dd7d6ee1": {
+      "ProjectGuid": "5d2c0e5d-36a2-4a2b-bef1-4fc1dd7d6ee1",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "25be3a45-c293-4348-863f-0a151894c9eb": {
+      "ProjectGuid": "25be3a45-c293-4348-863f-0a151894c9eb",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "ebaefce1-2ac7-4e12-8051-1d496b84a316": {
+      "ProjectGuid": "ebaefce1-2ac7-4e12-8051-1d496b84a316",
+      "DisplayName": "Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

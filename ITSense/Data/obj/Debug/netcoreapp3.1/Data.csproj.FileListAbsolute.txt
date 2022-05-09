@@ -1,0 +1,38 @@
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Dell\Desktop\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Esteban Colorado\Desktop\QualityData\QualityData\QualityData\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Esteban Colorado\Desktop\ITSense\ITSense\Data\obj\Debug\netcoreapp3.1\Data.pdb
